@@ -6,15 +6,16 @@ import {
   Text,
   View,
 } from 'react-native';
+import RootNavigator from './RootComponent';
+
+
 
 
 class App extends React.Component {
 
   render() {
-    return (
-      <View style={styles.container}>
-        <Text style={styles.title}>Hello, world!</Text>
-      </View>
+    return (  
+        <RootNavigator/>
     );
   }
 
