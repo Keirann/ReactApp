@@ -7,8 +7,9 @@ Please fill out all of the following sections to help us grade your submission:
 
 ## Student (to be completed individually)
 
-* First Last, x500@umn.edu
+
+Kiran Ravindra,ravin047@umn.edu
 
 ## Link to Project
 
-<https://expo.io/@TODO/TODO>
+<https://expo.io/@kiranravindra/5117-hw4>
